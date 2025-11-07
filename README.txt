@@ -1,4 +1,4 @@
-On this repositoty I keept files to use geographic content
+On this repositoty I keep files to use geographic content
 
 such a:
 svg world map 
